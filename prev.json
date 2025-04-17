@@ -1,6 +1,7 @@
 {
-"name": "WAAUSPREV",
-"description": "The WA Preview Pool",
-"ticker": "WAAUS",
-"homepage": "https://t.me/WAStaking"
+  "name": "WAAUSPREV",
+  "ticker": "WAAUS",
+  "description": "Test Pool",
+  "homepage": "https://t.me/WAStaking",
+  "nonce": "1744869461"
 }
